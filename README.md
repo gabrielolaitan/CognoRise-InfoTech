@@ -61,7 +61,6 @@ The analysis was conducted using Python, utilizing the following libraries:
 
 ### Key Insights:
 1. **Labor Participation Rate by Area**:
-   ![Product Table](IM/Screenshot%202024-08-14%20084106.png)
    
    - Rural areas(44.46%) exhibited slightly higher labor participation rates than urban areas with 40.90%.
    - Bar plots revealed clear distinctions between rural and urban labor market engagement.
