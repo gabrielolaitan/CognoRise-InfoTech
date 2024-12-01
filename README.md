@@ -33,8 +33,10 @@ This comprehensive dataset facilitated an in-depth understanding of unemployment
 ## Stages
 
 ### 1. Data Loading and Cleaning
-- The dataset was loaded into Python for analysis.
-- Data checks confirmed no missing or inconsistent values, ensuring accuracy.
+The dataset underwent a thorough cleaning process:  
+- Verified and handled missing values. all columns contained 28 null values and was removed.  
+- columns with spaces at the front was stripped.  
+- Standardized data formats for consistency.   
 
 ### 2. Exploratory Data Analysis (EDA)
 - Trends in unemployment rates were studied using line plots.
