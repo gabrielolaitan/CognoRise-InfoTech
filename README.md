@@ -61,20 +61,23 @@ The analysis was conducted using Python, utilizing the following libraries:
 
 ### Key Insights:
 1. **Labor Participation Rate by Area**:
-   - Rural areas exhibited slightly higher labor participation rates than urban areas.
+   ![Product Table](IM/Screenshot%202024-08-14%20084106.png)
+   
+   - Rural areas(44.46%) exhibited slightly higher labor participation rates than urban areas with 40.90%.
    - Bar plots revealed clear distinctions between rural and urban labor market engagement.
 
-2. **Regional Labor Participation Rates**:
-   - Certain regions, such as Tamil Nadu and Gujarat, had consistently high labor participation rates, while others like Tripura lagged.
+3. **Regional Labor Participation Rates**:
+   - Certain regions, such as  Meghalaya and Tripura, had consistently high labor participation rates, while others like Uttarakhand and Tripura lagged.
 
-3. **Estimated Employment by Region**:
-   - Southern states demonstrated higher levels of employment, reflecting better job opportunities in these regions.
+4. **Estimated Employment by Region**:
+   - Northern states demonstrated good levels of employment, reflecting better moderate opportunities in these regions.
+   -  Uttar Pradesh has the highest rate with 28,094,830 while Sikkim falls behind with the value of just 106,880.7
    - The visualization highlighted disparities in estimated employment across regions.
 
-4. **Unemployment Trends**:
-   - States such as Tripura and Haryana reported the highest unemployment rates, indicating localized economic challenges.
+5. **Unemployment Trends**:
+   - States such as Meghalaya(4.798889) and Odisha(5.657857) reported the highest unemployment rates, indicating localized economic challenges.
 
-5. **COVID-19 Impact**:
+6. **COVID-19 Impact**:
    - There was a sharp increase in the unemployment rate in April 2020, reaching over 24%. This spike was a direct result of the COVID-19 pandemic and the nationwide lockdown.
    - By June 2020, the unemployment rate sharply decreased, reflecting economic recovery efforts and easing of restrictions.
 
