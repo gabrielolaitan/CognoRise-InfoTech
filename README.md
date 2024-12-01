@@ -108,7 +108,7 @@ The findings were visualized using the following methods:
 3. **Line Graphs**:
    - Tracked unemployment trends over time, revealing seasonal or event-driven spikes, including the significant impact of COVID-19 in 2020.
 
-   ![Average Unemployment Rate Trend in India](image.png)
+   
 
 ---
 
